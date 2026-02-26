@@ -9,7 +9,6 @@ The app focuses on simplicity, performance, and mobile-first usability.
 
 ## 🚀 Live Demo
 [**View the Live Application here**](https://grocery-list-nataliia-litskevych.netlify.app/) 
-*(Примітка: Перевірте, чи це посилання для списку покупок, чи для рецептів)*
 
 ## 📸 Preview
 <p align="center">
@@ -21,7 +20,7 @@ The app focuses on simplicity, performance, and mobile-first usability.
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/grocery-list-app.git
+   git clone https://github.com/NataliiaLitskevych/Grocery-list.git
 
 2. Navigate to the project folder:
    cd grocery-list-app
